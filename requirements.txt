@@ -1,0 +1,12 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
+ultralytics
+segmentation-models-pytorch
+streamlit>=1.40
+pillow
+pandas
+numpy
+# Pin the exact versions used for training once you know them (see README), e.g.:
+# ultralytics==X.Y.Z
+# segmentation-models-pytorch==X.Y.Z
