@@ -1,5 +1,6 @@
 # — LeatherGuard : Détection et segmentation de défauts sur cuir
 
+<img width="1493" height="881" alt="image" src="https://github.com/user-attachments/assets/3b86849a-a22b-4d88-98c4-c6b8daf05010" />
 
 Modular computer-vision pipeline that checks a leather photo for wrinkle defects, localises them, measures their size and proposes an indicative quality grade. Built with PyTorch, Ultralytics YOLO, segmentation-models-pytorch and Streamlit.
 
